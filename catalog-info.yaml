@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Nodejs-Sailjs-web-application
+  annotations:
+    github.com/project-slug: shaquille01/Nodejs-Sailjs-web-application
+spec:
+  type: other
+  lifecycle: unknown
+  owner: shaquille
